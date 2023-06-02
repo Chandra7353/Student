@@ -1,0 +1,7 @@
+Class Student1 {
+
+public static void main(String [] args){
+system.Out.println("hello world this is studnet1")
+
+}
+}
